@@ -40,9 +40,8 @@ Os seguintes workflows foram extraídos para análise nesta auditoria:
 
 1. **Repositório GitHub:** Contendo esta pasta `auditoria_workflows` e este README.
 2. **Tutorial PDF:** Documento detalhando a análise dos pontos acima.
-3. **Vídeo:** Demonstração de 7 min navegando pelos Actions do projeto original e explicando os achados.
+3. **Vídeo:** https://drive.google.com/file/d/1yPYc5YL7iMGBE7-534FIiYVkzKIiPAtY/view?usp=sharing
 
----
 
 **Equipe:** Antônio Camilo, Caio Rosberg, Davi Andrade, Gabriel Argôlo, Katyane dos Santos, Levy dos Santos, Victor Matos e Virna Oliveira.
 **Disciplina:** Evolução de Software 2025-2
